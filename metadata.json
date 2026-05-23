@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Orchestration Platform",
+  "description": "Multi-agent deep reasoning cluster orchestrating complex codebase DAGs, featuring competitive validation networks to achieve token-heavy enterprise scale logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
